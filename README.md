@@ -1,4 +1,4 @@
-# Setting up MESH for the Nelson-Churchill River Basin
+# Setting up MESH for the Bow at Banff
 ![Bow River at Banff Catchment](./0-prerequisites/img/bow.png)
 
 
